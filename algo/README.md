@@ -26,6 +26,6 @@ We use set to contain all the word list since all word list are distinct and it 
 
 ## Complexity Analysis
 
-We use set to iterate which cause O(n) and search has an average of O(1) and worst case of O(n). Thus, the time complexity is O(n) for average case and O(n$^2$).
+We use set to iterate which cause O(n) and search has an average of O(1) and worst case of O(n). Thus, the time complexity is O(n) for average case and O(n<sup>2</sup>).
 
 For space complexity, we only use a data structure for contain input, so the space complexity is O(n).
